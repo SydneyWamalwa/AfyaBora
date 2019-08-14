@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "418700066234",
+    "firebase_url": "https://afyabora-32b0b.firebaseio.com",
+    "project_id": "afyabora-32b0b",
+    "storage_bucket": "afyabora-32b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418700066234:android:076136c15777e280",
+        "android_client_info": {
+          "package_name": "com.example.afyabora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418700066234-e7bilfhqcea0jqttkebaro462bv9glvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.afyabora",
+            "certificate_hash": "921e21208b505e6539cd3c31d84cadfab2939af8"
+          }
+        },
+        {
+          "client_id": "418700066234-bhn7vpamvehsl5m1qrte77v6u7rh6041.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD2z8jkqJFzEfpy5QkGyJWQP3KK3pqBzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418700066234-bhn7vpamvehsl5m1qrte77v6u7rh6041.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
